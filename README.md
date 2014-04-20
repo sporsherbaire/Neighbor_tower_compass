@@ -1,7 +1,7 @@
 Neighbor_tower_compass
 ======================
 mkdir ~/Hello-World
-# Creates a directory for your project called "Hello-World" in your user directory
+# Creates a directory for your project called "Neighbor_tower_compass" in your user directory
 
 cd ~/Hello-World
 # Changes the current working directory to your newly created directory
